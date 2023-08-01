@@ -135,3 +135,6 @@ buildNumber.properties
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,java,intellij+all
+/**/resources/application.yaml
+/**/resources/*.p12
+/**/resources/logback.xml
